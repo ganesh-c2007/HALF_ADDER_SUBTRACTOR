@@ -63,8 +63,9 @@ module half_adder (
     assign carry = a & b;   // AND for carry
 
 endmodule
+```
 
-
+```
 HALF SUBTRACTER
 
 module half_subtractor (
@@ -83,13 +84,19 @@ endmodule
 
 
 Developed by: GANESH.C
+
+
 RegisterNumber: 25017481  */
 
 **RTL Schematic**
 HALF ADDER
+
+
 <img width="551" height="320" alt="Screenshot 2025-12-09 171140" src="https://github.com/user-attachments/assets/f5556fdb-5bae-49ec-bde0-fb66442f2add" />
 
 HALF SUBTRACTOR
+
+
 <img width="577" height="254" alt="Screenshot 2025-12-09 171436" src="https://github.com/user-attachments/assets/31291a84-c512-410c-b8ad-976ff37ced43" />
 
 
@@ -106,10 +113,12 @@ HALF ADDER
 [exp3.pdf](https://github.com/user-attachments/files/24054176/exp3.pdf)
 
 HALF SUBTRACTOR
+
 [exp5.pdf](https://github.com/user-attachments/files/24054188/exp5.pdf)
 
 
 
 
 **Result:**
+
 Thus to design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming is verified
