@@ -52,7 +52,7 @@ Figure -02 HALF Subtractor
 ```
 HALF ADDER
 
-module half_adder (
+module xyz3 (
     input  wire a, b,     // Inputs
     output wire sum,      // Sum output
     output wire carry     // Carry output
@@ -68,7 +68,7 @@ endmodule
 ```
 HALF SUBTRACTER
 
-module half_subtractor (
+module xyz5 (
     input  wire a, b,         // Inputs
     output wire diff, borrow  // Outputs
 );
